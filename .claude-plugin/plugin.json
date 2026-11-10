@@ -1,0 +1,6 @@
+{
+  "name": "prompt-router",
+  "version": "0.1.0",
+  "description": "/recommend <prompt> suggests a model and effort level for the prompt and shows it above the input box",
+  "types": "./types/index.d.ts"
+}

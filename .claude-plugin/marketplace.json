@@ -1,0 +1,5 @@
+{
+  "name": "claude-prompt-router",
+  "owner": { "name": "unfamousk4y" },
+  "plugins": [{ "name": "prompt-router", "source": "./" }]
+}
